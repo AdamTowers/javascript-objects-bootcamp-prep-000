@@ -1,3 +1,1 @@
-function objects (obj) {
-  obj[playlist];
-}
+var playlist = new Object({artist:"song titles"})
