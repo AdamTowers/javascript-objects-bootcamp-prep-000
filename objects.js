@@ -1,3 +1,3 @@
 function objects (obj) {
-  obj[playlist]
+  obj[playlist];
 }
