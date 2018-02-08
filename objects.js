@@ -1,1 +1,3 @@
-var playlist = new Object({});
+function objects (obj) {
+  obj[playlist]
+}
